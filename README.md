@@ -1,8 +1,8 @@
 # Advanced RAG System
 
 A production-grade Retrieval Augmented Generation system implementing four 
-advanced techniques — hybrid search, cross-encoder re-ranking, query rewriting, 
-and configurable chunking — built to address specific weaknesses identified 
+advanced techniques. hybrid search, cross-encoder re-ranking, query rewriting, 
+and configurable chunking, built to address specific weaknesses identified 
 through systematic RAG evaluation.
 
 **Live App:** [Click here to view the app](https://advanced-rag-metuk48d5i2tgww2bdyjuy.streamlit.app/)
